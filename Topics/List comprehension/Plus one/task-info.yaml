@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# please work with the variable ''list_of_strings'''
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7080#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 19 May 2022 16:51:49 UTC
+record: -1
